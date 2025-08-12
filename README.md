@@ -10,7 +10,7 @@ The full project data (~4 GB) is hosted on Google Drive due to GitHub's file siz
 
 You can download it here:
 
-** [Download Movie Recommendation System Project Data (4 GB)](https://drive.google.com/uc?export=download&id=YOUR_FILE_ID) **
+**[Download Movie Recommendation System Project Data (4 GB)](https://drive.google.com/uc?export=download&id=YOUR_FILE_ID)**
 ---
 
 ## How to Use
